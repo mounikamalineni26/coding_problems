@@ -1,4 +1,4 @@
-# Problem Solving Using Python 🚀
+ # Problem Solving Using Python 🚀
 
-This repository contains solutions for various **puzzles** implemented in **Python**.
+This repository contains solutions for various **logics** implemented in **Python**.
 
